@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T00:39:48.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="jUt2Bzw_n8FGZxbNsQG1" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T00:42:49.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="hKbHwOHhWvaIplEBLj1u" version="14.2.7" type="github">
   <diagram id="iTnLbPA0bUSlMBwM3kBu" name="Page-1">
     <mxGraphModel dx="1009" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,7 +209,7 @@
           <mxGeometry x="90" y="232.5" width="50" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="IF2Q6fgf_21Sja4Km_W9-66" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#DBDB00;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="150" width="40" height="40" as="geometry" />
+          <mxGeometry x="815" y="155" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IF2Q6fgf_21Sja4Km_W9-67" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22strokeWidth%3D2%3Bhtml%3D1%3Bshape%3Dmxgraph.flowchart.start_2%3BwhiteSpace%3Dwrap%3BfillColor%3D%23DBDB00%3BstrokeColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22680%22%20y%3D%22477%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22strokeWidth%3D2%3Bhtml%3D1%3Bshape%3Dmxgraph.flowchart.start_2%3BwhiteSpace%3Dwrap%3BfillColor%3D%23DBDB00%3BstrokeColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22680%22%20y%3D%22477%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22strokeWidth%3D2%3Bhtml%3D1%3Bshape%3Dmxgraph.flowchart.start_2%3BwhiteSpace%3Dwrap%3BfillColor%3D%23DBDB00%3BstrokeColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22680%22%20y%3D%22477%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#04B84C;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="860" y="155" width="30" height="30" as="geometry" />
@@ -252,6 +252,12 @@
         </mxCell>
         <mxCell id="IF2Q6fgf_21Sja4Km_W9-81" value="Poeira" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Verdana;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="580" y="265" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IF2Q6fgf_21Sja4Km_W9-82" value="Frio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Verdana;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="855" y="185" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IF2Q6fgf_21Sja4Km_W9-83" value="Situações de estresse psíquico e Controle de Produtividade" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Verdana;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="120" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
