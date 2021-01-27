@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T14:19:54.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wu8wWMlbvFEwZKya8-sH" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T15:11:54.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="rG9XQkqMQTgCxhnhcxWq" version="14.2.7" type="github">
   <diagram id="iTnLbPA0bUSlMBwM3kBu" name="Page-1">
     <mxGraphModel dx="1019" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
         <mxCell id="IF2Q6fgf_21Sja4Km_W9-76" value="Calor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Verdana;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="35" y="210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IF2Q6fgf_21Sja4Km_W9-77" value="Máquinas sem Proteção, Armazenamento Inadequado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Verdana;fontSize=13;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="IF2Q6fgf_21Sja4Km_W9-77" value="Máquinas sem Proteção" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Verdana;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="30" y="290" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IF2Q6fgf_21Sja4Km_W9-78" value="Postura Inadequada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Verdana;fontSize=13;fontStyle=1" parent="1" vertex="1">
