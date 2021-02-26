@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T13:25:10.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.2.9" etag="JHGSckUg4Sh3PbusOocA" type="github"><diagram id="bSupkZoGJ3EYDHmktmdb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-26T15:39:57.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="3uCDT8VDizl4TicO7QL3" version="14.2.9" type="github">
+  <diagram id="bSupkZoGJ3EYDHmktmdb" name="Page-1">
+    <mxGraphModel dx="866" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;gradientColor=#A8A8A8;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="460" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E0E0E0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="10" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E0E0E0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="10" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E0E0E0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="460" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-16" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;shadow=1;dashed=1;sketch=0;fillColor=#4D4D4D;gradientColor=#BDBDBD;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-17" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;shadow=1;dashed=1;sketch=0;fillColor=#4D4D4D;gradientColor=#BDBDBD;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-18" value="&lt;h1&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;TÍTULO DA EMPRESA&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;fillColor=none;html=1;fontSize=24;fontStyle=5;verticalAlign=bottom;align=center;shadow=1;dashed=1;sketch=0;rounded=0;glass=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Tahoma;fontColor=#2B2825;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="249" y="200" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;rounded=0;shadow=1;glass=0;sketch=0;strokeWidth=3;fontFamily=Tahoma;fontSize=21;dashed=1;dashPattern=1 1;fillColor=#537491;gradientColor=#4C5C78;opacity=80;strokeColor=none;gradientDirection=east;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="550" y="30" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=10;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=0;strokeWidth=3;fillColor=#537491;gradientColor=#4C5C78;fontFamily=Tahoma;fontSize=21;opacity=80;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="500" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E0E0E0;labelPadding=-2;imageAspect=1;noLabel=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="550" width="460" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;rounded=0;shadow=1;glass=0;sketch=0;strokeWidth=3;fontFamily=Tahoma;fontSize=21;dashed=1;dashPattern=1 1;fillColor=#537491;gradientColor=#4C5C78;opacity=80;strokeColor=none;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="149" y="500" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-31" value="&lt;h1 style=&quot;font-size: 32px;&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;TÍTULO DA EMPRESA&lt;/span&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;/h1&gt;" style="text;fillColor=none;html=1;fontSize=32;fontStyle=5;verticalAlign=bottom;align=center;shadow=1;dashed=1;sketch=0;rounded=0;glass=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Tahoma;fontColor=#7D7D7D;labelBorderColor=none;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="250" y="183" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obQJtwEFvU-mR-OF_HZR-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/office-time/512/19-128.png;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=0;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;gradientColor=#A8A8A8;fontFamily=Tahoma;fontSize=32;fontColor=#2B2825;opacity=60;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="336" y="372" width="128" height="128" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
