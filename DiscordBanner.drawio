@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T12:41:16.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="LngrCqpw9bFIqebkbFYv" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T12:41:38.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="ADptWz09UlFIW4ao1uU4" version="14.4.3" type="github">
   <diagram id="1a3UGMDriyQdCiPY0vGU" name="Page-1">
     <mxGraphModel dx="866" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="100" y="146" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nn26A_XS03T5ROCxtMMR-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://media.discordapp.net/attachments/657931392818348067/819547784138588200/cowboy-hat-png.png;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="70" y="66" width="130" height="76.75" as="geometry" />
+          <mxGeometry x="65" y="60" width="130" height="76.75" as="geometry" />
         </mxCell>
         <mxCell id="nn26A_XS03T5ROCxtMMR-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://toppng.com/public/uploads/thumbnail/simple-playing-dice-design-square-things-clipart-115635953357xbijwkjp4.png;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="176" width="60" height="38.79" as="geometry" />
