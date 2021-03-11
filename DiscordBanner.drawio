@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T12:26:17.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="1lXzpcWKpzDj6TJERe8n" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T12:39:45.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="ldlnl3sk648evGmf4JaZ" version="14.4.3" type="github">
   <diagram id="1a3UGMDriyQdCiPY0vGU" name="Page-1">
-    <mxGraphModel dx="866" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,18 @@
         </mxCell>
         <mxCell id="nn26A_XS03T5ROCxtMMR-2" value="&lt;h1&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Rakkas&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;i&gt;SENPAI ÓRFÃO&lt;/i&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;glass=0;sketch=0;fontColor=#694002;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="50" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nn26A_XS03T5ROCxtMMR-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://freesvg.org/img/twenty-sided-dice.png;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nn26A_XS03T5ROCxtMMR-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://media.discordapp.net/attachments/657931392818348067/819547784138588200/cowboy-hat-png.png;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="70" width="130" height="76.75" as="geometry" />
+        </mxCell>
+        <mxCell id="nn26A_XS03T5ROCxtMMR-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://toppng.com/public/uploads/thumbnail/simple-playing-dice-design-square-things-clipart-115635953357xbijwkjp4.png;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="110" width="60" height="38.79" as="geometry" />
+        </mxCell>
+        <mxCell id="nn26A_XS03T5ROCxtMMR-10" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://creazilla-store.fra1.digitaloceanspaces.com/emojis/46727/joystick-emoji-clipart-xl.png;" vertex="1" parent="1">
+          <mxGeometry x="590" y="58.79" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
