@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T12:52:12.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="oNz9HrUo7KBf5VDBIPvb" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T12:52:30.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="xa4JkRRw9arz8CXfhSJy" version="14.4.3" type="github">
   <diagram id="1a3UGMDriyQdCiPY0vGU" name="Page-1">
     <mxGraphModel dx="866" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="nn26A_XS03T5ROCxtMMR-12" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/77352/cowboy-hat-clipart-xl.png;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="21.47" y="56.82" width="142.69" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nn26A_XS03T5ROCxtMMR-13" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;glass=0;sketch=0;fontColor=#694002;fillColor=#FFB300;gradientColor=#FFE433;strokeColor=#FF8000;rotation=15;" vertex="1" parent="1">
+        <mxCell id="nn26A_XS03T5ROCxtMMR-13" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;shape=mxgraph.ios7.icons.mail;glass=0;sketch=0;fontColor=#694002;fillColor=#FFB300;gradientColor=#FFE433;strokeColor=#FF8000;rotation=15;" vertex="1" parent="1">
           <mxGeometry x="47.82" y="160" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
