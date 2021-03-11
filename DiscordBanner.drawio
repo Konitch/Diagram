@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T12:47:09.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="YIwKIA9hQLY0X7HgbFJ6" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T12:52:12.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="oNz9HrUo7KBf5VDBIPvb" version="14.4.3" type="github">
   <diagram id="1a3UGMDriyQdCiPY0vGU" name="Page-1">
     <mxGraphModel dx="866" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,20 +7,17 @@
         <mxCell id="nn26A_XS03T5ROCxtMMR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=1;sketch=0;glass=0;gradientColor=#FFA530;fillColor=#DE842A;perimeterSpacing=0;gradientDirection=north;strokeColor=#F7A500;" vertex="1" parent="1">
           <mxGeometry x="60" y="106" width="580" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="nn26A_XS03T5ROCxtMMR-2" value="&lt;h1&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Rakkas&quot; face=&quot;Comic Sans MS&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 59px&quot;&gt;SENPAI ÓRFÃO&lt;/i&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;glass=0;sketch=0;fontColor=#694002;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="nn26A_XS03T5ROCxtMMR-2" value="&lt;h1&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Rakkas&quot; face=&quot;Comic Sans MS&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 59px&quot;&gt;CONVITE&lt;/i&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;glass=0;sketch=0;fontColor=#694002;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="128" width="500" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nn26A_XS03T5ROCxtMMR-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://freesvg.org/img/twenty-sided-dice.png;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="40" y="154.79" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nn26A_XS03T5ROCxtMMR-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://toppng.com/public/uploads/thumbnail/simple-playing-dice-design-square-things-clipart-115635953357xbijwkjp4.png;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="190" width="60" height="38.79" as="geometry" />
         </mxCell>
         <mxCell id="nn26A_XS03T5ROCxtMMR-10" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://creazilla-store.fra1.digitaloceanspaces.com/emojis/46727/joystick-emoji-clipart-xl.png;" vertex="1" parent="1">
           <mxGeometry x="570" y="116" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nn26A_XS03T5ROCxtMMR-12" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;glass=0;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#DE842A;gradientColor=none;fontColor=#694002;image=https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/77352/cowboy-hat-clipart-xl.png;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="21.47" y="56.82" width="142.69" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nn26A_XS03T5ROCxtMMR-13" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;glass=0;sketch=0;fontColor=#694002;fillColor=#FFB300;gradientColor=#FFE433;strokeColor=#FF8000;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="47.82" y="160" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
