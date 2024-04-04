@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T18:10:39.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.2" etag="YJiN_J0Wc9BHNJbGomWx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T18:13:17.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="16SYtvE11MF9Tu44hl7C" version="24.2.2" type="github">
   <diagram name="Página-1" id="y5MTKA7V9xZslkAVUTXU">
-    <mxGraphModel>
+    <mxGraphModel dx="1914" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2M3XvzQ8hgE7RZHOMurx-1" value="CATEGORIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2M3XvzQ8hgE7RZHOMurx-2" value="USUARIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2M3XvzQ8hgE7RZHOMurx-3" value="GRUPO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2M3XvzQ8hgE7RZHOMurx-4" value="COMENTARIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2M3XvzQ8hgE7RZHOMurx-5" value="LOCALIZACAO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2M3XvzQ8hgE7RZHOMurx-6" value="POSTAGEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
