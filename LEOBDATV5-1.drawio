@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T18:19:56.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ilE6gILwISnHqQRrRy5q" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T18:23:44.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="v9zHGkUxjWIONnFvtnHf" version="24.7.1" type="github">
   <diagram name="Página-1" id="m194DB5OODm50t4TiOIn">
     <mxGraphModel dx="1914" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,7 +234,7 @@
           <mxGeometry x="400" width="320" height="43" as="geometry" />
         </mxCell>
         <mxCell id="oNFGNhtA4SceddN9MFem-255" value="" style="swimlane;startSize=0;" parent="oNFGNhtA4SceddN9MFem-254" vertex="1">
-          <mxGeometry width="320" height="41.5" as="geometry" />
+          <mxGeometry width="280" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="oNFGNhtA4SceddN9MFem-256" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;telefone_fornecedor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oNFGNhtA4SceddN9MFem-255" vertex="1">
           <mxGeometry x="19" y="1.5" width="240" height="40" as="geometry" />
@@ -628,7 +628,7 @@
         <mxCell id="GgJrNzVZVlJhMmaJBiFv-355" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;quantidade&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GgJrNzVZVlJhMmaJBiFv-354">
           <mxGeometry x="30" y="1.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GgJrNzVZVlJhMmaJBiFv-359" value="&lt;b&gt;Possui&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GgJrNzVZVlJhMmaJBiFv-344">
+        <mxCell id="GgJrNzVZVlJhMmaJBiFv-359" value="&lt;b&gt;Produto_venda&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GgJrNzVZVlJhMmaJBiFv-344">
           <mxGeometry width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GgJrNzVZVlJhMmaJBiFv-388" value="" style="group" vertex="1" connectable="0" parent="1">
