@@ -414,8 +414,8 @@
         <mxCell id="GgJrNzVZVlJhMmaJBiFv-234" value="&lt;font color=&quot;#014e66&quot; style=&quot;font-size: 24px;&quot;&gt;PK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="GgJrNzVZVlJhMmaJBiFv-232" vertex="1">
           <mxGeometry x="-22.7" y="6.5" width="97.2" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GgJrNzVZVlJhMmaJBiFv-236" value="&lt;b&gt;Filial_telefone&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="41" y="1610" width="110" height="30" as="geometry" />
+        <mxCell id="GgJrNzVZVlJhMmaJBiFv-236" value="&lt;b&gt;Servidor_adm_telefone&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="41" y="1610" width="289" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GgJrNzVZVlJhMmaJBiFv-237" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="41" y="1760" width="240" height="43" as="geometry" />
