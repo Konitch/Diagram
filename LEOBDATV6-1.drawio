@@ -824,6 +824,23 @@
         <mxCell id="DOF1BjW3caJsl0741FP9-66" value="&lt;h2&gt;&lt;font color=&quot;#d48383&quot;&gt;NOT NULL&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="481.5" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DOF1BjW3caJsl0741FP9-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1321.46" y="439" width="280" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="DOF1BjW3caJsl0741FP9-72" value="" style="swimlane;startSize=0;" vertex="1" parent="DOF1BjW3caJsl0741FP9-71">
+          <mxGeometry width="280" height="41.5" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOF1BjW3caJsl0741FP9-73" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;codigo_disciplina&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DOF1BjW3caJsl0741FP9-72">
+          <mxGeometry x="56" y="1" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DOF1BjW3caJsl0741FP9-74" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 24px;&quot;&gt;FK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="446.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOF1BjW3caJsl0741FP9-75" value="&lt;h2&gt;&lt;font color=&quot;#d48383&quot;&gt;NOT NULL&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1322.46" y="481.25" width="280" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
