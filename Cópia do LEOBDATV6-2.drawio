@@ -401,6 +401,17 @@
         <mxCell id="hbX9C-iI9n-MNEtw0XZR-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;link&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="hbX9C-iI9n-MNEtw0XZR-6">
           <mxGeometry x="70" y="1.5" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hbX9C-iI9n-MNEtw0XZR-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="840" y="320" width="200" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="hbX9C-iI9n-MNEtw0XZR-9" value="" style="swimlane;startSize=0;" vertex="1" parent="hbX9C-iI9n-MNEtw0XZR-8">
+          <mxGeometry width="200" height="41.5" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hbX9C-iI9n-MNEtw0XZR-10" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;telefone&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="hbX9C-iI9n-MNEtw0XZR-9">
+          <mxGeometry x="45" y="1.5" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
